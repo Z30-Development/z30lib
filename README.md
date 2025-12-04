@@ -1,3 +1,5 @@
+[![z30lib Repository](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Z30-Development/z30lib)
+
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/z30) [![PyPI](https://img.shields.io/pypi/v/z30lib?color=blue&logo=python&logoColor=white)](https://pypi.org/project/z30lib/)
 
 [![Windows](https://img.shields.io/badge/OS-Windows-00adef?logo=windows&logoColor=white)](https://www.microsoft.com/de-de/software-download/windows11)
