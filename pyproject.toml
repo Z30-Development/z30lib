@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "z30lib"
+version = "1.0.0"
 description = "A cross-platform system & hardware information library by Z30-Development"
 readme = { file = "README.md", content-type = "text/markdown" }
 license = { file = "LICENSE" }
