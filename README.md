@@ -1,4 +1,8 @@
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/z30) [![PyPI](https://img.shields.io/pypi/v/z30lib?color=blue&logo=python&logoColor=white)](https://pypi.org/project/z30lib/)
+
+[![Windows](https://img.shields.io/badge/OS-Windows-00adef?logo=windows&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/OS-Linux-333333?logo=linux&logoColor=white)]()
+[![macOS](https://img.shields.io/badge/OS-macOS-999999?logo=apple&logoColor=white)]()
 # Z30 Library for Python
 
 Cross-platform Python library to retrieve detailed system and hardware information.
