@@ -24,7 +24,6 @@ classifiers = [
     "Topic :: Utilities",
     "Typing :: Typed",
 ]
-dynamic = ["version"]
 
 dependencies = [
     "psutil",
