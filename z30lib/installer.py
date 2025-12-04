@@ -3,12 +3,8 @@ import platform
 import subprocess
 import sys
 import requests
-from typing import Optional, Dict, Any, Tuple
+from typing import Optional, Dict, Tuple
 import time
-import hashlib
-from pathlib import Path
-import json
-import tempfile
 from urllib.parse import urlparse, unquote
 
 CONFIG_FILE = "app_installer_config.json"
