@@ -1,4 +1,4 @@
-
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/z30)
 # Z30 Library for Python
 
 Cross-platform Python library to retrieve detailed system and hardware information.
@@ -104,5 +104,3 @@ MIT License © Z30-Development
 ## How to Contribute
 
 Feel free to submit issues or pull requests. Contributions, suggestions, and bug reports are welcome!
-
-[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/z30)
