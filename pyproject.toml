@@ -26,6 +26,9 @@ classifiers = [
 ]
 
 dependencies = [
+    "requests",
+    "netifaces",
+    "speedtest-cli",
     "psutil",
     "py-cpuinfo",
     "wmi; platform_system == 'Windows'",

@@ -2,9 +2,7 @@ import platform
 import psutil
 import cpuinfo
 import subprocess
-import wmi
 import winreg
-import sys
 import os
 from datetime import datetime
 

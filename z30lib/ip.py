@@ -6,11 +6,7 @@ import subprocess
 import ipaddress
 import requests
 import platform
-import json
-import re
-import time
 from typing import List, Optional, Dict, Tuple
-from dataclasses import dataclass
 
 # ---------------------------------------------------------------- GET FUNCTIONS ----------------------------------------------------------------
 

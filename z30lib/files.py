@@ -1,6 +1,5 @@
 import os
 import shutil
-import mimetypes
 
 class CreateFile:
     """Erstellt eine neue Datei oder ein Verzeichnis"""
